@@ -16,10 +16,18 @@ arrHumans[2] = {
     name: 'Olya',
     age: 38
 };
+
 arrHumans[3] = {
     name: 'Tanya',
     age: 21
 };
+
+arrHumans[4] = {
+    name: 'Kolya',
+    age: 50
+};
+
+
 
 function getInfo(persons) {
     let middleAge;
@@ -32,12 +40,13 @@ function getInfo(persons) {
     
     const nameOld = persons.find(person => person.age === max).name; //находим имя самого старшего
 
-    const result = {
-        name: 
-        age: max;
+    const result = { //создаем обьект для передача
+        name: nameOld, //имя самого старшего
+        age: middleAge //средний возраст
     };
 
-    return middleAge, max;
+    return result;
 }
 
-console.log(`Средний возраст ${getInfo(arrHumans)}`);
+const resultObj = getInfo(arrHumans);
+console.log(`Результат: Средний возраст ${resultObj.age}. Имя самого старшего человека ${resultObj.name}`);
