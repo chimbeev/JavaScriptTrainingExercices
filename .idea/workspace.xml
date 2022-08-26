@@ -19,12 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87c5b1d5-34c8-41cc-9e4f-dfdab01d5852" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise8_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise8_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise7_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise7_3.js" afterDir="false" />
+    <list default="true" id="87c5b1d5-34c8-41cc-9e4f-dfdab01d5852" name="Default Changelist" comment="25082022">
+      <change afterPath="$PROJECT_DIR$/Exercise10_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise10_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise10_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciseDomExample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run.html" beforeDir="false" afterPath="$PROJECT_DIR$/run.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,15 +51,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\JavaScriptTrainingExercices" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Exercise10_2.html">
+    <configuration name="Exercise10_2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/JavaScriptTrainingExercices/Exercise10_2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="run.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/JavaScriptTrainingExercices/run.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Exercise10_2.html" />
         <item itemvalue="JavaScript Debug.run.html" />
       </list>
     </recent_temporary>
@@ -72,8 +82,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661397482263</updated>
-      <workItem from="1661397483310" duration="9331000" />
+      <workItem from="1661397483310" duration="10048000" />
+      <workItem from="1661477873710" duration="9202000" />
+      <workItem from="1661498378599" duration="1374000" />
     </task>
+    <task id="LOCAL-00001" summary="25082022">
+      <created>1661420764521</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661420764521</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,15 +109,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="25082022" />
+    <option name="LAST_COMMIT_MESSAGE" value="25082022" />
   </component>
   <component name="WindowStateProjectService">
     <state x="461" y="165" key="SettingsEditor" timestamp="1661398873930">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1661398873930" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1661420792580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1661420792580" />
     <state x="714" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1661398665861">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="714" y="421" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1661398665861" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1661485160355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1661485160355" />
   </component>
 </project>
