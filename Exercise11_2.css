@@ -35,4 +35,14 @@ img {
     padding: 5px 10px 10px;
     background: lightblue;
     font-size: 14px;
+    display: none;
+
+
+}
+
+.panel--opened {
+    padding: 5px 10px 10px;
+    background: lightblue;
+    font-size: 14px;
+    display: flex;
 }
