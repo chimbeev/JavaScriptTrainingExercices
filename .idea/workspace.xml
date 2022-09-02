@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87c5b1d5-34c8-41cc-9e4f-dfdab01d5852" name="Default Changelist" comment="25082022">
-      <change afterPath="$PROJECT_DIR$/Exercise11_3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise11_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise11_2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise11_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise11_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise11_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise11_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise11_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise11_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise11_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise11_3.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +61,7 @@
       <recent name="C:\Users\User\WebstormProjects\JavaScriptTrainingExercices" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Exercise11_2.html">
+  <component name="RunManager" selected="JavaScript Debug.Exercise11_3.html">
     <configuration name="Exercise10_2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/JavaScriptTrainingExercices/Exercise10_2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -75,11 +71,15 @@
     <configuration name="Exercise11_2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/JavaScriptTrainingExercices/Exercise11_2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="Exercise11_3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptTrainingExercices/Exercise11_3.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="run.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/JavaScriptTrainingExercices/run.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Exercise11_3.html" />
         <item itemvalue="JavaScript Debug.Exercise11_2.html" />
         <item itemvalue="JavaScript Debug.Exercise11_1.html" />
         <item itemvalue="JavaScript Debug.run.html" />
@@ -101,7 +101,8 @@
       <workItem from="1661735985824" duration="56000" />
       <workItem from="1661736087522" duration="9000" />
       <workItem from="1661831567664" duration="6066000" />
-      <workItem from="1661995216041" duration="10192000" />
+      <workItem from="1661995216041" duration="11596000" />
+      <workItem from="1662110874043" duration="703000" />
     </task>
     <task id="LOCAL-00001" summary="25082022">
       <created>1661420764521</created>
