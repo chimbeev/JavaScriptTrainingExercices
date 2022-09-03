@@ -5,6 +5,8 @@ const random = (min, max) => {
 };
 
 const but = document.querySelector('button');
-but.addEventListener('mouseover', () => {
-    but.setAttribute('style.left', '70%', 'right', '20%');
+but.addEventListener('mouseenter', () => {
+    but.style.left =`${random(5,45)}%`;
+    but.style.top = `${random(5,45)}%`;
 })
+
