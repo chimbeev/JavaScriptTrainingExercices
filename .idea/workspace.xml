@@ -19,21 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22947864-5014-40c9-8ee2-c161fc908797" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise13_0_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_0_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_0_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_0_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_0_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_0_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_2_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_2_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_3_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_3_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_3_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_3_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_3_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciseClasses.js" afterDir="false" />
+    <list default="true" id="22947864-5014-40c9-8ee2-c161fc908797" name="Changes" comment="25082022">
+      <change afterPath="$PROJECT_DIR$/Exercise13_5_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise13_5_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise13_5_3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +34,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -82,13 +71,7 @@
       <recent name="C:\Users\User\WebstormProjects\JavaScriptTrainingExercices" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Exercise13_3_3.js">
-    <configuration name="Exercise13_0_3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptTrainingExercices/Exercise13_0_3.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercise13_2_3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptTrainingExercices/Exercise13_2_3.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.Exercise13_5_2.js">
     <configuration name="Exercise13_3_1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptTrainingExercices/Exercise13_3_1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -98,20 +81,26 @@
     <configuration name="Exercise13_3_3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise13_3_3.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="Exercise13_5_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise13_5_1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise13_5_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise13_5_2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Exercise13_5_2.js" />
+        <item itemvalue="Node.js.Exercise13_5_1.js" />
         <item itemvalue="Node.js.Exercise13_3_3.js" />
         <item itemvalue="JavaScript Debug.Exercise13_3_3.html" />
         <item itemvalue="JavaScript Debug.Exercise13_3_1.html" />
-        <item itemvalue="JavaScript Debug.Exercise13_2_3.html" />
-        <item itemvalue="JavaScript Debug.Exercise13_0_3.html" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="87c5b1d5-34c8-41cc-9e4f-dfdab01d5852" name="Default Changelist" comment="" />
+      <changelist id="22947864-5014-40c9-8ee2-c161fc908797" name="Changes" comment="" />
       <created>1661397482263</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -124,6 +113,8 @@
       <workItem from="1661831567664" duration="6066000" />
       <workItem from="1661995216041" duration="11596000" />
       <workItem from="1662110874043" duration="703000" />
+      <workItem from="1662469361570" duration="5000" />
+      <workItem from="1662764740597" duration="7614000" />
     </task>
     <task id="LOCAL-00001" summary="25082022">
       <created>1661420764521</created>
