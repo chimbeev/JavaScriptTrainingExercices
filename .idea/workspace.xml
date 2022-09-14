@@ -19,10 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="22947864-5014-40c9-8ee2-c161fc908797" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Exercise13_4_8.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ExerciseJSON1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ExerciseJSON1.js" afterDir="false" />
+=======
+    <list default="true" id="22947864-5014-40c9-8ee2-c161fc908797" name="Changes" comment="25082022">
+      <change afterPath="$PROJECT_DIR$/Exercise13_5_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise13_5_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise13_5_3.js" afterDir="false" />
+>>>>>>> 6cd86ac2fb64055c344a0cfbaf00f9e1a8618928
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +41,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -71,35 +78,62 @@
       <recent name="C:\Users\chimb\WebstormProjects\JavaScriptTrainingExercices" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="JavaScript Debug.ExerciseJSON1.html">
     <configuration name="Exercise13_4_8.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptTrainingExercices/Exercise13_4_8.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="ExerciseJSON1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptTrainingExercices/ExerciseJSON1.html" useBuiltInWebServerPort="true">
+=======
+  <component name="RunManager" selected="Node.js.Exercise13_5_2.js">
+    <configuration name="Exercise13_3_1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptTrainingExercices/Exercise13_3_1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise13_3_3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptTrainingExercices/Exercise13_3_3.html" useBuiltInWebServerPort="true">
+>>>>>>> 6cd86ac2fb64055c344a0cfbaf00f9e1a8618928
       <method v="2" />
     </configuration>
     <configuration name="Exercise13_3_3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise13_3_3.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Exercise13_4_8.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise13_4_8.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="ExerciseJSON1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ExerciseJSON1.js" working-dir="$PROJECT_DIR$">
+=======
+    <configuration name="Exercise13_5_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise13_5_1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise13_5_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise13_5_2.js" working-dir="$PROJECT_DIR$">
+>>>>>>> 6cd86ac2fb64055c344a0cfbaf00f9e1a8618928
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="JavaScript Debug.ExerciseJSON1.html" />
         <item itemvalue="Node.js.ExerciseJSON1.js" />
         <item itemvalue="JavaScript Debug.Exercise13_4_8.html" />
         <item itemvalue="Node.js.Exercise13_4_8.js" />
         <item itemvalue="Node.js.Exercise13_3_3.js" />
+=======
+        <item itemvalue="Node.js.Exercise13_5_2.js" />
+        <item itemvalue="Node.js.Exercise13_5_1.js" />
+        <item itemvalue="Node.js.Exercise13_3_3.js" />
+        <item itemvalue="JavaScript Debug.Exercise13_3_3.html" />
+        <item itemvalue="JavaScript Debug.Exercise13_3_1.html" />
+>>>>>>> 6cd86ac2fb64055c344a0cfbaf00f9e1a8618928
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+=======
+      <changelist id="22947864-5014-40c9-8ee2-c161fc908797" name="Changes" comment="" />
+>>>>>>> 6cd86ac2fb64055c344a0cfbaf00f9e1a8618928
       <created>1661397482263</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -112,10 +146,15 @@
       <workItem from="1661831567664" duration="6066000" />
       <workItem from="1661995216041" duration="11596000" />
       <workItem from="1662110874043" duration="703000" />
+<<<<<<< HEAD
       <workItem from="1662359459028" duration="27000" />
       <workItem from="1662686750864" duration="128000" />
       <workItem from="1662686882746" duration="1452000" />
       <workItem from="1663145391225" duration="3901000" />
+=======
+      <workItem from="1662469361570" duration="5000" />
+      <workItem from="1662764740597" duration="7614000" />
+>>>>>>> 6cd86ac2fb64055c344a0cfbaf00f9e1a8618928
     </task>
     <task id="LOCAL-00001" summary="25082022">
       <created>1661420764521</created>
