@@ -20,20 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22947864-5014-40c9-8ee2-c161fc908797" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise13_0_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_0_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_0_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_0_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_0_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_0_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_2_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_2_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_3_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_3_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_3_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_3_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_3_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciseClasses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise13_4_8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciseJSON1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciseJSON1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,40 +67,39 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\chimb\WebstormProjects\JavaScriptTrainingExercices" />
       <recent name="C:\Users\User\WebstormProjects\JavaScriptTrainingExercices" />
+      <recent name="C:\Users\chimb\WebstormProjects\JavaScriptTrainingExercices" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Exercise13_3_3.js">
-    <configuration name="Exercise13_0_3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptTrainingExercices/Exercise13_0_3.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.ExerciseJSON1.html">
+    <configuration name="Exercise13_4_8.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptTrainingExercices/Exercise13_4_8.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Exercise13_2_3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptTrainingExercices/Exercise13_2_3.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercise13_3_1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptTrainingExercices/Exercise13_3_1.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercise13_3_3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptTrainingExercices/Exercise13_3_3.html" useBuiltInWebServerPort="true">
+    <configuration name="ExerciseJSON1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptTrainingExercices/ExerciseJSON1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Exercise13_3_3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise13_3_3.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="Exercise13_4_8.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise13_4_8.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="ExerciseJSON1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ExerciseJSON1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.ExerciseJSON1.html" />
+        <item itemvalue="Node.js.ExerciseJSON1.js" />
+        <item itemvalue="JavaScript Debug.Exercise13_4_8.html" />
+        <item itemvalue="Node.js.Exercise13_4_8.js" />
         <item itemvalue="Node.js.Exercise13_3_3.js" />
-        <item itemvalue="JavaScript Debug.Exercise13_3_3.html" />
-        <item itemvalue="JavaScript Debug.Exercise13_3_1.html" />
-        <item itemvalue="JavaScript Debug.Exercise13_2_3.html" />
-        <item itemvalue="JavaScript Debug.Exercise13_0_3.html" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="87c5b1d5-34c8-41cc-9e4f-dfdab01d5852" name="Default Changelist" comment="" />
       <created>1661397482263</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -124,6 +112,10 @@
       <workItem from="1661831567664" duration="6066000" />
       <workItem from="1661995216041" duration="11596000" />
       <workItem from="1662110874043" duration="703000" />
+      <workItem from="1662359459028" duration="27000" />
+      <workItem from="1662686750864" duration="128000" />
+      <workItem from="1662686882746" duration="1452000" />
+      <workItem from="1663145391225" duration="3901000" />
     </task>
     <task id="LOCAL-00001" summary="25082022">
       <created>1661420764521</created>
@@ -153,5 +145,27 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="25082022" />
     <option name="LAST_COMMIT_MESSAGE" value="25082022" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1662716777595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1662716777595" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1662716777595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1662716777595" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1662716777595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1662716777595" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1662716777595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1662716777595" />
+    <state x="540" y="263" key="IDE.errors.dialog" timestamp="1663148896049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1663148896048" />
   </component>
 </project>
